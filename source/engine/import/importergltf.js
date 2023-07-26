@@ -270,6 +270,7 @@ class GltfExtensions
             'KHR_draco_mesh_compression',
             'KHR_materials_pbrSpecularGlossiness',
             'KHR_texture_transform',
+            'KHR_lights_punctual',
         ];
         this.draco = null;
     }
